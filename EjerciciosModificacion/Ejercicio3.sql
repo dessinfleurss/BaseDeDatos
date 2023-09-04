@@ -1,0 +1,3 @@
+---SELECT FROM
+DELETE FROM post
+WHERE title LIKE "Ocean%";
